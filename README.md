@@ -2,9 +2,8 @@
 
 ### C++ Course Project
 
--- To simulate a airline ticketing system
--- Object-oriented
--- 1500+ lines
+-- To simulate a airline ticketing system  
+-- Object-oriented  
 
 Functions:   
   -- Administrators can administrate information of passengers and planes  
