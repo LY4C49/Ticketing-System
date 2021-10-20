@@ -2,7 +2,7 @@
 
 ### C++ Course Project
 
--- To simulate a airline ticketing system  
+-- To simulate an airline ticketing system  
 -- Object-oriented  
 
 Functions:   
